@@ -602,7 +602,7 @@ h1 {
 /* Mobile Nav body classes */
 
 body.mobile-nav-active {
-  overflow: hidden;
+  overflow: show;
 }
 
 body.mobile-nav-active #mobile-nav {
