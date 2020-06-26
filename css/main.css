@@ -42,7 +42,7 @@ body {
 
 .header-text {
     position: absolute;
-    bottom: 8%;
+    bottom: 10%;
 }
 
 h1 {
@@ -55,7 +55,7 @@ h1 {
     font-family: DINWebPro-Bold, Calibri, Arial, sans-serif;
     color: #fff;
     margin: 0;
-    font-size: 34px;
+    font-size: 38px;
     text-transform: uppercase;
 }
 
@@ -63,7 +63,7 @@ h1 {
     font-family: DINWebPro, Calibri, Arial, sans-serif;
     color: #fff;
     margin: 0;
-    font-size: 34px;
+    font-size: 38px;
     text-transform: uppercase;
 }
 
