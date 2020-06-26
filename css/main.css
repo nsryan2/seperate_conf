@@ -41,7 +41,7 @@ body {
 }
 
 .header-text {
-    position: relative;
+    position: bottom;
     bottom: 8%;
 }
 
